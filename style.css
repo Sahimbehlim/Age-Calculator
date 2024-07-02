@@ -72,7 +72,6 @@ span {
     .calendar {
         flex-direction: column;
         gap: 20px;
-        width: 80%;
     } 
     p {
         font-size: 14px;
